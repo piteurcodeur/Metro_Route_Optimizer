@@ -26,9 +26,9 @@ The application will display the itinerary with the corresponding route informat
 The code is organized into several parts:
 
 1. The **MasterGraphe** class represents the graph of metro stations and . calculates the shortest route.
-2. The GUI part uses Tkinter to create the graphical user interface.
-3. The chemin function finds the shortest route between two stations.
-4. The find_itineraire function retrieves the itinerary with the corresponding route information.
+2. The **GUI** part uses Tkinter to create the graphical user interface.
+3. The **chemin** function finds the shortest route between two stations.
+4. The **find_itineraire** function retrieves the itinerary with the corresponding route information.
 
 ## Graph Search Algorithm  
 
