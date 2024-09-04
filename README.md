@@ -4,6 +4,11 @@
 
 This project is a metro route planner application that allows users to input their itinerary and obtain the corresponding route information. The application is developed in **Python** with a graphical user interface using **Tkinter**.
 
+<div style="display: flex;">
+  <img src="img/image.png" alt="Logo" width="400" height="400" style="margin-right: 10px;">
+  <img src="img/trajet.png" alt="Logo" width="300" height="500">
+</div>
+
 ## Installation  
 
 To install this project, follow these steps:
