@@ -45,4 +45,4 @@ The graph search algorithm used in this project is **Dijkstra's algorithm**, whi
 
 ## License
 
-This project is under the MIT License. You can use and modify the code according to the terms of the license.
+This project is under the [MIT License](https://github.com/piteurcodeur/Metro_Route_Optimizer?tab=MIT-1-ov-file). You can use and modify the code according to the terms of the license.
