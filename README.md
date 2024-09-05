@@ -13,9 +13,17 @@ This project is a metro route planner application that allows users to input the
 
 To install this project, follow these steps:
 
-Clone the Git repository: git clone https://github.com/piteurcodeur/Metro_Route_Optimizer.git  
-Install the dependencies: pip install -r requirements.txt  
-Run the GUI.py file: python GUI.py
+-> Clone the Git repository  
+-> Install the dependencies: 
+
+```Python
+pip install tk pillow difflib
+```
+
+-> Run the **GUI.py** file: 
+```Python
+python GUI.py
+```
 
 ## Usage  
 
